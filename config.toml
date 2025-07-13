@@ -1,0 +1,8 @@
+[login]
+username="user"
+password="12345678"
+[config]
+# 1 - Roomname, 2 - Gamemode, 3 - Players, 4 - Country, 5 - Minimum lvl, 6 - Distance
+sortby=6
+hidepassworded=true
+hidefull=false
